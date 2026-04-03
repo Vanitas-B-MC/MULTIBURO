@@ -2,9 +2,25 @@
 [![Download](https://img.shields.io/badge/Download-Release-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vanitas-B-MC/MULTIBURO/releases)
 [![Docs](https://img.shields.io/badge/Docs-Read%20Now-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white)](https://trello.com/b/qO96H5l1/multiburo)
 
-# MULTIBURO
+# MULTIBURO ☺☻☺☻☺☻☺
 ###  Projet Multiburo SLAM
 <br>
+
+#### Arboresence des fichiers 
+
+```
+PasUtile/
+|--Save.txt
+MultiBuro.php
+Multiburo.css
+PourPlustard.php
+connection.php  
+db.inc.php
+function.inc.js
+function.inc.php
+inscription.php
+modele.inc.php
+```
 
 ## 🗣📢🔥🔥🔥 TUTO COMMENT CRÉE UN NOUVEAU PDO
 ```php
@@ -25,7 +41,7 @@ echo "Database error: ".$e->getMessage();
 }
 ```
 
-# 🗣📢🔥🔥🔥 TUTO CSS TABLEAU !!!
+# 🗣📢🔥🔥🔥 TUTO CSS POUR LES TABLEAU !!!
 ```css
 table
 {
