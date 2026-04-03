@@ -1,0 +1,6 @@
+$tmp .= '<tr><td>'.$ligne['lib_type'].'</td><td>'.$ligne['nom_resource'].'</td><td>'.$ligne['nb_place'].'</td><td><input type="submit" name="Reserver" value="Réserver"></td></tr>';
+
+
+// set the default timezone to use.
+date_default_timezone_set('UTC');
+$tmp001 = date("l") . "\n";
